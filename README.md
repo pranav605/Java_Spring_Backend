@@ -153,4 +153,4 @@ ai-text-api
 ## Author
 
 **Sai Pranav Nishtala**
-Built as a portfolio & interview project demonstrating Java, Spring Boot, and AI integration skills.
+saipranavnishtala.com
