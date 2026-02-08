@@ -153,4 +153,4 @@ ai-text-api
 ## Author
 
 **Sai Pranav Nishtala**
-saipranavnishtala.com
+https://www.saipranavnishtala.com
